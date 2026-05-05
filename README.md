@@ -1,3 +1,9 @@
+# Inspired by
+- Why MOEYS not upload national exam result on their own website
+- BASE_URL: https://exam-result-system-api-1.onrender.com   
+- BASE_URL/api/result?id=123
+- FRONT: https://github.com/mony29/exam_result_system_ui
+
 # 📊 Exam Result Lookup System API (MVP)
 
 ## 🧠 Overview
